@@ -1,0 +1,24 @@
+	Welcome to Yehtzee
+
+Enter dices values (Eg. 1 2 3 4 5): 1 2 3 4 5
+This is Straight..!!!
+Your score is 15
+
+Do you want to REROLL(y/n) ? y
+
+Dices values : 1 2 3 4 5 
+Enter INDEX of dices that you want to REROLL. => 1 2
+Enter values for this indices : 2 2
+This is one pair...!!!
+Your score is 4
+
+Do you want to REROLL again(y/n) ?y
+
+Dices values : 2 2 3 4 5 
+Enter INDEX of dices that you want to REROLL. => 3 4 5
+Enter values for this indices : 2 2 2
+This is Yahtzee...!!!
+Your score is 50
+You can not reroll again. Maximum limit(3) reached.
+
+Want to continue (y/n) : 
